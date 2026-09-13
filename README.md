@@ -1,0 +1,1 @@
+# smoKzy_godmod.lua
